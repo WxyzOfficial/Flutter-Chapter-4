@@ -1,4 +1,8 @@
 **Portfolio: Chapter 4 - Creating a Starter Project Template**
+
+**Objective of the Chapter:**
+The primary goal of this chapter is to introduce the process of creating a starter project template in Flutter, providing foundational skills essential for structuring and organizing Flutter projects.
+
 ---
 
 ### **Key Learnings:**
@@ -28,13 +32,5 @@ This chapter serves as a recurring reference point throughout the book whenever 
 
 ---
 
-### **Importance of the Chapter:**
-By understanding the systematic structuring of a project, developers can:
-- Enhance code maintainability.
-- Enable collaboration among teams by using consistent folder organization.
-- Ensure scalability for larger and more complex applications.
-
----
-
 ## Explorer pane
-![Explorer](https://github.com/user-attachments/assets/0247a14c-ab9b-429d-8a3a-a0e541c953ed)
+![Explorer](https://github.com/user-attachments/assets/2f615958-d9aa-44ef-8860-3427b6413cd2)
